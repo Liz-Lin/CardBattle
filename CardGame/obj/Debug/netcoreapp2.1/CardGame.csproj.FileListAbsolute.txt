@@ -1,0 +1,11 @@
+/Users/lizhenlin/Projects/CardGame/CardGame/bin/Debug/netcoreapp2.1/CardGame.deps.json
+/Users/lizhenlin/Projects/CardGame/CardGame/bin/Debug/netcoreapp2.1/CardGame.runtimeconfig.json
+/Users/lizhenlin/Projects/CardGame/CardGame/bin/Debug/netcoreapp2.1/CardGame.runtimeconfig.dev.json
+/Users/lizhenlin/Projects/CardGame/CardGame/bin/Debug/netcoreapp2.1/CardGame.dll
+/Users/lizhenlin/Projects/CardGame/CardGame/bin/Debug/netcoreapp2.1/CardGame.pdb
+/Users/lizhenlin/Projects/CardGame/CardGame/obj/Debug/netcoreapp2.1/CardGame.csprojAssemblyReference.cache
+/Users/lizhenlin/Projects/CardGame/CardGame/obj/Debug/netcoreapp2.1/CardGame.csproj.CoreCompileInputs.cache
+/Users/lizhenlin/Projects/CardGame/CardGame/obj/Debug/netcoreapp2.1/CardGame.AssemblyInfoInputs.cache
+/Users/lizhenlin/Projects/CardGame/CardGame/obj/Debug/netcoreapp2.1/CardGame.AssemblyInfo.cs
+/Users/lizhenlin/Projects/CardGame/CardGame/obj/Debug/netcoreapp2.1/CardGame.dll
+/Users/lizhenlin/Projects/CardGame/CardGame/obj/Debug/netcoreapp2.1/CardGame.pdb

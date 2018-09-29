@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9EC33C58-28C7-43EB-BABA-58E7C8753538}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardGame/Program.cs">
+    <Files>
+      <File FileName="CardGame/Program.cs" Line="82" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CardGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
